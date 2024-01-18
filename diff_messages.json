@@ -1,0 +1,3 @@
+{"id": 1, "op": "u", "before": {"id": "1", " UpdatedField1": " 1", " UpdatedField2": " 1"}, "after": {"id": "1", " UpdatedField1": " 11", " UpdatedField2": " 11", " my_field": " \"new field\""}}
+{"id": 2, "op": "u", "before": {"id": "2", " UpdatedField1": " 2", " UpdatedField2": " 2"}, "after": {"id": "2", " UpdatedField1": " 2", " UpdatedField2": " 2", " my_field": " \"new field 2\""}}
+{"id": 3, "op": "u", "before": {"id": "3", " UpdatedField1": " 3", " UpdatedField2": " 3"}, "after": {"id": "3", " UpdatedField1": " 31", " UpdatedField2": " 3", " my_field": " \"new field 3\""}}

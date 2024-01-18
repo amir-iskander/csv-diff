@@ -1,0 +1,4 @@
+id, UpdatedField1, UpdatedField2, my_field
+1, 11, 11, "new field"
+2, 2, 2, "new field 2"
+3, 31, 3, "new field 3"
